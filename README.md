@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-juninn12346@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juninn12346@gmail.com)](mailto:juninn12346@gmail.com)
 
-**I'm Reinaldo Silva Jr. :bowtie: :rocket: **. I develop websites, mobile apps and APIs. Currently my stack is: 
+**I'm Reinaldo Silva Jr. **:bowtie: :rocket: . I develop websites, mobile apps and APIs. Currently my stack is: 
 
 :computer: web sites with **ReactJs** <br/>
 :iphone: mobile applications with **React Native** <br/>
