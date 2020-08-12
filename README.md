@@ -11,13 +11,13 @@
 :iphone: mobile applications with **React Native** <br/>
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **SQL Server**, **MySQL** <br/>
-:computer: &nbsp; And studying **Typescript** <br/>
+:computer: And studying **Typescript** <br/>
 
 
 📚 22 year old student passionate about development technologies, that soon will be a major web and mobile developer
 <br>
 
-reinaldo-silva.github.io/portfolio-react/
+https://reinaldo-silva.github.io/Portfolio-React/
 
 <br>
 
