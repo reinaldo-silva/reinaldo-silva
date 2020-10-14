@@ -21,7 +21,7 @@ https://reinaldo-silva.github.io/Portfolio-React/
 
 <br>
 
-![Reinaldo's Stats](https://github-readme-stats.vercel.app/api?username=reinaldo-silva)
+![Reinaldo's Stats](https://github-readme-stats.vercel.app/api?username=reinaldo-silva&show_icons=true&theme=tokyonight)
 
 ![Reinaldo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-silva&hide=html&layout=compact)
 
