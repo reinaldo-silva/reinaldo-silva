@@ -23,7 +23,7 @@ https://reinaldo-silva.github.io/Portfolio-React/
 
 ![Reinaldo's Stats](https://github-readme-stats.vercel.app/api?username=reinaldo-silva&show_icons=true&theme=tokyonight)
 
-![Reinaldo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-silva&hide=html&layout=compact)
+![Reinaldo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-silva&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
 #### See my Linkedin
 <a href="https://www.linkedin.com/in/reinaldo-silva-junior-543a25128/" target="_blank">
