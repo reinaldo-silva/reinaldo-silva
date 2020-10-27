@@ -17,6 +17,9 @@
 📚 22 year old student passionate about development technologies, that soon will be a major web and mobile developer
 <br>
 
+:paperclip: Currently venturing and studying UI/UX designer 📚
+<br>
+
 https://reinaldo-silva.github.io/Portfolio-React/
 
 <br>
