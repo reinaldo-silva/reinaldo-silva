@@ -7,21 +7,12 @@
 
 **I'm Reinaldo Silva Jr.** :bowtie: :rocket: . I develop websites, mobile apps and APIs. Currently my stack is: 
 
-:computer: web sites with **ReactJs** <br/>
-:iphone: mobile applications with **React Native** <br/>
-:satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **SQL Server**, **MySQL** <br/>
-:computer: And studying **Typescript** <br/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/carbon.png?raw=true"/>
 
-
-📚 22 year old student passionate about development technologies, that soon will be a major web and mobile developer
+📚 23 year old student passionate about development technologies, that soon will be a major web and mobile developer
 <br>
 
 :paperclip: Currently venturing and studying UI/UX designer 📚
-<br>
-
-https://reinaldo-silva.github.io/Portfolio-React/
-
 <br>
 
 ![Reinaldo's Stats](https://github-readme-stats.vercel.app/api?username=reinaldo-silva&show_icons=true&theme=tokyonight)
