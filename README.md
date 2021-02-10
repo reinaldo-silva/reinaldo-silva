@@ -9,6 +9,22 @@
 
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/carbon.png?raw=true"/>
 
+<center>
+<div style="display:flex; justify-content:space-around; width: 100%;">
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/graphql.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/typescript.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/react.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/javascript.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nodejs.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/bootstrap.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/css3.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/docker.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/html5.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/mongodb.svg"/>
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/postgreesql.svg"/>
+</div>
+  </center>
+
 📚 23 year old student passionate about development technologies, that soon will be a major web and mobile developer
 <br>
 
