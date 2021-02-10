@@ -22,13 +22,12 @@
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/html5.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/mongodb.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/postgreesql.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/php.svg" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nextjs.svg" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/php.png" height="40px"/>&nbsp;
+<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nextjs.png" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/nestjs.png" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/Figma.svg" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/git.png" height="40px"/>&nbsp;
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/yarn.png" height="40px"/>&nbsp;
-<img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/npm.png" height="35px"/>&nbsp;
 </div>
   </center>
 
